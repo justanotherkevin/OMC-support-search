@@ -1,0 +1,583 @@
+{
+  "FAQs": [
+      {
+          "Question": "Want to switch/change existing plan/subscription to new email",
+          "What you do/What it means": "We don't 'switch,' per se; instead we have them sign up their new address and then upgrade their new address to reflect the details (i.e. plan, expiration date) of the existing plan. Remember to add the appropriate links to the email. Remember to click \"syncronize license\" in KPI",
+          "What you say": "Happy to help here. First thing's first: we need you to register your new email with Evercontact. Please follow the steps below to register without a subscription:\n\nIf these email addresses are Gmail or Office 365, sign up here for a free trial! You can run the whole trial, or skip right to the pricing page. You will be prompted to purchase a plan, but instead click on \"not interested\" where you will be directed to extend your trial. Please make sure you accept the 14-day trial, and we will do the rest behind the scenes! If you are using Outlook for desktop for any of the emails you are interested in registering, you can do so directly through this link by installing the Outlook plugin!\n\nOnce you do so, I'll be able to manually upgrade your new account to reflect your existing subscription.\n\nLet me know once you complete this step!\n",
+          "Tags": "Account switch subscription new",
+          "Type": "Accounts"
+      },
+      {
+          "Question": "Can you please switch my account from A to B? (But user is Free)",
+          "What you do/What it means": "Since we no longer have a free plan, we will not switch a user's account to another free plan. We will still honor their free subscription for the existing email",
+          "What you say": "Hi__\n\nCassidy from Evercontact here, thanks for reaching out!\n\nUnfortunately, *email* is registered as a free user, and we recently phased out of offering a free plan. While we will still honor your existing free account, we are not able to register any new emails as a free user. Please feel free to try out out Instant Gratification Tool to get a feel for how we can best fit your needs, and explore our subscriptions!\n\nI apologize for the inconvenience, and please do not hesitate to reach out with further questions!\n\nBest,\n\nCassidy \n",
+          "Type": "Accounts"
+      },
+      {
+          "Question": "Centralization Request",
+          "What you do/What it means": "Ask tech team. User must register any accounts that they want centralization for- refer to steps for process through IGT if accounts are not registered (always check first). Always clarify which account they want to be the primary account",
+          "What you say": "Hi__\n\nCassidy from Evercontact here, thanks for reaching out!\n\nWe can centralize your accounts as requested from our end; I've just forwarded your info to our tech team to complete the sync. I'll be sure to give you an update once I hear back from them!\n\nWill be in touch soon,\n\nTHEN\nHi __\n\nJust heard back from our tech team - your accounts have been centralized as you requested. *email* is your primary and *email* is your secondary account!\n\nLet me know if there's anything else I can do for you.\n\nBest,\n\n",
+          "Tags": "Centralization ",
+          "Type": "Centralization"
+      },
+      {
+          "Question": "Centralization not working",
+          "What you do/What it means": "Ask tech team\nCan force centralization on last 30 days (from domain dashboard)",
+          "Tags": "Centralization multi",
+          "Type": "Centralization"
+      },
+      {
+          "Question": "Not able to sign up for multi-account",
+          "What you do/What it means": "First, check if you can find an entry for the user in VS and KPIs. - there might be an issue\nThen, check out directions for attaching Multi-Account here:\nhttps://docs.google.com/document/d/1GIygREjprp0jR1SzkPQHvVI93WBHlwQWBqWu882C83Q/edit#heading=h.r7bjevwjvyku",
+          "What you say": "Your accounts have been centralized as requested: mike@mikehenrysr.com  is your primary one and mikehenrysr@gmail.com will sync into it. You're all set moving forward!",
+          "Tags": "Centralization multi KPI",
+          "Type": "Centralization"
+      },
+      {
+          "Question": "How does centralization work?",
+          "What you do/What it means": "Wonder why there isn't an FAQ page about this (yet)",
+          "What you say": "[change gmail/outlook duh]  All contacts that Evercontact captures in both your Gmail and Outlook accounts will be added to your Outlook address book (since that is the one you set as primary).\nHowever, this only works for incoming mail that Evercontact reads. If you manually create new contacts in your Gmail contacts, they will not be added automatically to your Outlook address book.",
+          "Tags": "Centralization New",
+          "Type": "Centralization"
+      },
+      {
+          "Question": "Centralization where both accounts act as primary OR Can I have a multi-account where each account acts as the master",
+          "What you do/What it means": "not with essentials... but with business you can have essentially the same function with our CSV exports",
+          "What you say": "Totally understand your request, but unfortunately we don't have that feature in works at the moment. Currently, only the master account captures all of your incoming contacts.\n\nHowever, a work-around for this issue is possible through our Business Plan, which allows you to export your contacts from an address book in a shareable .CSV file. You could then upload the content of this .CSV into your other address books.\n\nHope that clears things up - let me know if you have any further questions about this or our Business Plan. ",
+          "Tags": "multi centralization CSV Essentials Business master accounts",
+          "Type": "Centralization"
+      },
+      {
+          "Question": "Problem with multi accounts",
+          "What you do/What it means": "Check multi: https://docs.google.com/document/d/1GIygREjprp0jR1SzkPQHvVI93WBHlwQWBqWu882C83Q/edit#heading=h.r7bjevwjvyku",
+          "Type": "Centralization"
+      },
+      {
+          "Question": "Chrome Plug-In not working, getting error message about servers ",
+          "What you do/What it means": "In my experience, this is either a deep-rooted tech issue with the plug-in or a very specific issue for this user. Either way you need to ask tech. You can try asking the user to uninstall/reinstall Evercontact in their Google Chrome Extensions (https://chrome.google.com/webstore/user/purchases?hl=en) + (https://chrome.google.com/webstore/detail/evercontact/hlfhddckfmifofnpklmmiboiljmengde?hl=en) OR OR OR OR:::: Follow these steps to force update:\n1- go to chrome://extensions/\n2- activate 'Developer mode' and click on 'Update extension now'\n3- if all goes well, the user should now see 2.2.2.16 for the version",
+          "Tags": "Chrome Plugin error message",
+          "Type": "Chrome Plugin"
+      },
+      {
+          "Question": "Chrome Plug-In not working, (version isn't updated) ",
+          "What you do/What it means": "They need to update the version in their chrome plugin",
+          "What you say": "We've actually recently had an update to our Gmail plugin; it's very likely that simply updating your version will provide a fix here. To do so:\n- Access your Chrome Extensions\n- Activate 'Developer mode' and click on 'Update extension now' (see attached image for details)\n- You should now see version 2.2.2.16\n\nLet me know if you have any questions with this process or if you continue to experience any issues.",
+          "Tags": "Chrome plugin update",
+          "Type": "Chrome Plugin",
+          "Links": "file:///Users/danielrozenblum/Downloads/QWu7A7O%20(2).png"
+      },
+      {
+          "Question": "Re-run or re-enable CR",
+          "What you do/What it means": "Press “Remove Jobs” before doing anything\nDelete current Flashback License (under Outlook/Gmail info)\nPress “Offer” Flashback in the bottom right of that box\nInitiate: 1 = CR, 2 = CR+, 3 = custom\nIf Gmail or O365, we can launch CR ourselves (Give 1 or 2, then go to KPI and under \"Historic,\" click on the \"bought\" button, then submit. Then in his Settings, either you or he can launch the CR)\nIf Outlook, user has to do it - make sure to ask them to launch from Evercontact tab of his Outlook (for Outlook specifically, they need to download EC plugin in order for CR to work)",
+          "What you say": "I just re-enabled your ContactRescue+ for andy.cogbill@imv-usa.us.\nIt's up and ready to run; all you need is to launch it from your end (which you can do from the Evercontact tab of your Outlook account/Evercontact Settings for Gmail/o365).\nJust a reminder that the process will be completed within 48 hours of your initiating it.",
+          "Tags": "ContactRescue",
+          "Type": "ContactRescue"
+      },
+      {
+          "Question": "How long does a CR take?",
+          "What you do/What it means": "Answer -->. Also - you can check on voodooscope (WS) under \"User's HistoRecall\" in the User Dashboard. You can see which dates it's processing (From/To), how many email have been processed (#Done), how many have been analyzed for a signature (#Anal.), how many signatures found (#Sig), how many unique contacts updated (#Contacts) and more importantly how many contacts updated (#Up). Status is important as well - you can see if it's Done, or still processing. If every number is 0 or -1, there likely was an issue",
+          "What you say": "Our ContactRescue+ takes between 48-96 hours to complete.\nOR\nOut ContactRescue takes between 24-48 hours to complete.\nYou can check the status in your Evercontact Settings ",
+          "Tags": "ContactRescue",
+          "Type": "ContactRescue"
+      },
+      {
+          "Question": "Why don't I see contact updates from ContactRescue in my user contact dashboard",
+          "What you do/What it means": "Because we only reflect Evercontact updates there",
+          "What you say": "Great question. Your ContactRescue results actually aren't reflected in your contact dashboard; the contacts there are all from your Evercontact service.\nYou can find your updated ContactRescue results visible in your Gmail address book (as you can see in your settings, 115 contacts were updated). We can also export your results in a .CSV format if you'd like (let me know if you have any questions about that).",
+          "Tags": "ContactRescue Contact Dashboard",
+          "Type": "ContactRescue"
+      },
+      {
+          "Question": "Old ContactRescue Flashback Insight!",
+          "What you do/What it means": "Before March/April 2017, CR was called Flashback. If you see this in the KPI under description, it did not contain an Essentials subscription as part of the deal",
+          "Tags": "ContactRescue Flashback KPI",
+          "Type": "ContactRescue"
+      },
+      {
+          "Question": "ContactRescue Refund",
+          "What you do/What it means": "Ask Thomas Doc to do it",
+          "What you say": "Definitely will refund you the XX% - thanks for letting us know about this issue.\nI've just asked our financial director to issue the refund; will give you a heads up once he green lights it.",
+          "Tags": "ContactRescue Refund",
+          "Type": "ContactRescue"
+      },
+      {
+          "Question": "Access recovering old CR results",
+          "What you do/What it means": "https://ws.evercontact.com/pulse-backoffice/wtn/DownloadCSVFlashback.action?userId=[ENTER EMAIL]",
+          "What you say": "what you do, cont. - download that link, copy and paste the contents into an excel/google sheet, then (at least in sheets, dunno about excel), you go to the \"Data\" column and select \"Split text into columns\" at the bottom and WA-LA! Presto! Beautiful, organized contact info.",
+          "Tags": "Contactrescue, old contacts, hugo",
+          "Type": "ContactRescue"
+      },
+      {
+          "Question": "Trying to scan PST files",
+          "What you do/What it means": "This is only available on Outlook. PST files = Personal storage files. This doesn't come up often, but we once had an issue with a user trying to run a CR for his \"corrupt\" PST files - it was fixed via Gilles (Outlook technician and my personal hero). Typically, I believe PST files can be included in Outlook CRs but if you experience issues, ask tech teams what's up AND* send them user's log/zip files!",
+          "What you say": "This is only available on Outlook",
+          "Tags": "PST ContactRescue",
+          "Type": "ContactRescue"
+      },
+      {
+          "Question": "CR+ vs CR",
+          "What you do/What it means": "Outlook/O365: 60k vs 20k. Gmail: 5yr vs 1 yr",
+          "Type": "ContactRescue"
+      },
+      {
+          "Question": "Why has Evercontact created duplicate info in my contacts' information?",
+          "What you do/What it means": "Ok so usually - we didn't. Typically when this happens, it was caused by some other contact management system (i.e. PieSync) so you should ask if they use one. Our service doesn't add duplicates but will update the existing duplicate info to be accurate",
+          "Tags": "Contacts duplicates piesync",
+          "Type": "Dashboard"
+      },
+      {
+          "Question": "Can I search for my contacts?",
+          "What you do/What it means": "We don't support a search function but (Gmail) there are other methods!",
+          "What you say": "Good question. We don't currently have a built-in search function but you can see all of your contacts in your Evercontact Contact Dashboard.\nOn the Gmail side, however, there are methods for finding specific contacts that you can use.\n\nHope this helps!\nLet me know if you have any further questions.",
+          "Tags": "Dashboard Contact search",
+          "Type": "Dashboard"
+      },
+      {
+          "Question": "How do I view all of my contacts updated by Evercontact?",
+          "What you do/What it means": "Send him/her contact dashboard for Gmail/O365",
+          "What you say": "To view all of your contacts, you can access your Contacts Dashboard via your Evercontact settings.\nLet me know if that's what you were looking for!",
+          "Tags": "Dashboard Contacts",
+          "Type": "Dashboard"
+      },
+      {
+          "Question": "How do I move my EC account to a new computer (Outlook)",
+          "What you do/What it means": "They simply have to redownload the plugin in their new outlook with the same email.",
+          "What you say": "Regarding your account, your Essentials subscription with us is still valid regardless of which device you use it with. Since your email address is the same, all you need to do is re-download the Evercontact plugin for Outlook and your Evercontact will continue working.",
+          "Tags": "Device Switch",
+          "Type": "Devices"
+      },
+      {
+          "Question": "Switch account from Gmail to Office 365",
+          "What you do/What it means": "first, he has to make the change on his address email, then tell us (we make the switch in our database) and do a reauth. Ask tech team",
+          "What you say": "Your Evercontact account has been switched from Gmail to Office 365 on our end.\nAll you need to do is access the Authorization Link provided, and your account should be all set moving forward.\n\nPlease let me know if you have any questions about this or any further questions down the road.",
+          "Tags": "switch accounts email provider",
+          "Type": "Email Provider",
+          "Links": "https://www.evercontact.com/reauth?email=russ@ditrhockey.com"
+      },
+      {
+          "Question": "Difference between Evercontact and FullContact",
+          "What you do/What it means": "Anyone who utters the name \"FullContact\" will be banished to the deepest circle of Hell",
+          "What you say": "We are not connected to FullContact though our services have similarities. Regarding our differences, however:\n- We are (considerably) cheaper\n- We offer extraction of contacts stored in email archives (i.e. our ContactRescue service) which they do not\n- We are app-less, so to speak. The contact updates happen seamlessly into your existing address books without you needing to do a thing\n- We offer export to any CRM\n- And for more on our differences, you might want to compare both privacy policies. Here's ours.\n\nHope this helps - please let me know if you have further qustions!",
+          "Tags": "FullContact Comparisson Competition",
+          "Type": "FullContact",
+          "Links": "https://evercontact.com/privacy"
+      },
+      {
+          "Question": "Any generic problem that we need to ask tech team about",
+          "What you do/What it means": "Ask tech team, respond to user, then follow up",
+          "What you say": "Really sorry you've been experiencing these issues, but I appreciate all the insight + the screenshot.\nI've passed this info along for our tech team to take a look and come up with a solution here.\nI'll be sure to give you an update the moment I have one.\n\nFor the time being, thank you for your patience.",
+          "Tags": "Generic tech team",
+          "Type": "Generic",
+          "Links": "http://www.evercontact.com/microsoft/2.11.49/EvercontactSetup.exe"
+      },
+      {
+          "Question": "Wants to download older version of EC for Outlook (installer for 2.11.32)",
+          "What you do/What it means": "Share link",
+          "What you say": "Good news - the tech team was able to provide a link to install version 2.11.32.\nYou'll find the installer attached here.\n\nHope that works!\nLet me know if you experience any further issues with this process.",
+          "Tags": "outlook installer old version",
+          "Type": "Installation",
+          "Links": "http://www.evercontact.com/microsoft/2.11.32/EvercontactSetup.exe"
+      },
+      {
+          "Question": "Promo discount code didn't work",
+          "What you do/What it means": "Ask Thomas Doc to do it",
+          "What you say": "I've just contacted our financial director to issue the 30% discount to your account.\nI'll be sure to give you a heads up once he does so.\n\nIn the meantime, let me know if you have any other questions!",
+          "Tags": "discount promo code payment",
+          "Type": "Payment"
+      },
+      {
+          "Question": "Can I pay for X months and then cancel my EC subscription",
+          "What you do/What it means": "Nope -->",
+          "What you say": "Unfortunately our Evercontact subscriptions are yearly plans charged every twelve months.",
+          "Tags": "New pricing subscription",
+          "Type": "Payment"
+      },
+      {
+          "Question": "Invoice from any year",
+          "What you do/What it means": "http://dev.evercontact.com/kwaga-bin/titan/ADMIN/KPI.pl?m=allApplicationInvoices&year=2017    replace year with the year you need to search",
+          "What you say": "If user invoice looks weird, you can create an official invoice with the link to the right",
+          "Tags": "Payment Invoice",
+          "Type": "Payment",
+          "Links": "https://docs.google.com/document/d/1gvhD3UGPTsMnCFsCeSPVc5qPCK64b00my1uTG69ACT8/edit?ts=5b2ba9ab"
+      },
+      {
+          "Question": "Issue with contact update/contact not updating",
+          "What you do/What it means": "https://docs.google.com/document/d/1GIygREjprp0jR1SzkPQHvVI93WBHlwQWBqWu882C83Q/edit#heading=h.d5npssaog5qo",
+          "What you say": "Dan from Evercontact here - thanks for reaching out, though I'm sorry for this inconvenience.\n\nQuick question - have you ever replied to this email address (scott@gibsonavecapital.com)?\nHow our system works is it actually categorizes your contacts into either \"trusted\" or \"not trusted\" sources. A coworker with whom you constantly correspond with falls into the \"trusted\" category (as we detect an actual response on your end) whereas spam and other junk gets put in the \"not trusted\" category, particularly after sending you multiple solicitations with no response.\nThus, in the case of Scott Tarbet, it is likely he has not yet been confirmed as \"trusted\" because there is no back-and-forth correspondence with this email address of his yet. Does this sound like it could be the case?",
+          "Tags": "Contact Updates Trusted Locuter",
+          "Type": "Problem w/ EC working"
+      },
+      {
+          "Question": "Why wasn't this contact updated (not listed as trusted source)",
+          "What you do/What it means": "check out \"Issue with a contact update\" - https://docs.google.com/document/d/1GIygREjprp0jR1SzkPQHvVI93WBHlwQWBqWu882C83Q/edit#heading=h.d5npssaog5qo",
+          "What you say": "As you know, our software analyzes incoming contacts and automatically updates their contact info in your address book. However, our system also filters out your email senders based on levels of trustworthiness (i.e. we aren't adding spam senders to your contacts). Occasionally - and as is the case with Steve Norman - a desired contact isn't updated because something in their email account triggered our system to question their \"trustworthiness.\"\nAs a simple fix, our software waits until you respond to this email sender as a verification of their legitimacy as a contact, and then adds their contact info.\n\nHope that clears things up.\nPlease let me know if you're experiencing issues with any other incoming contacts and I'll make sure we take a look at it immediately.",
+          "Tags": "Error Contact Update Account",
+          "Type": "Problem w/ EC working"
+      },
+      {
+          "Question": "Receiving Error that says they don’t have EC on their domain (but they do)",
+          "What you do/What it means": "It means something's quite rotten in Denmark. Gotta ask the tech team; this issue is typically very user-specific and often requires some back-end shuffling",
+          "Tags": "Error Domain",
+          "Type": "Problem w/ EC working"
+      },
+      {
+          "Question": "Issue that requires Evercleaner + re-Downloading newest version of EC (for Outlook). This is once reauth process doesn't work",
+          "What you do/What it means": "Sometimes tech team asks you to send them this",
+          "What you say": "Check out the details of this link http://support.evercontact.com/knowledge_base/topics/how-do-i-fix-a-plugin-that-seems-stuck-between-2-versions",
+          "Tags": "Evercleaner Outlook",
+          "Type": "Problem w/ EC working"
+      },
+      {
+          "Question": "Contacts not being updated or captured (account NOT \"active\")",
+          "What you do/What it means": "https://docs.google.com/document/d/1GIygREjprp0jR1SzkPQHvVI93WBHlwQWBqWu882C83Q/edit#heading=h.fg6dilk286zs  ^Fanny has link & explanation",
+          "What you say": "Your account seems to have experienced a disconnection from our service. Our apologies for that inconvenience.\nNot to worry, though - I've just reactivated your account and you should be all set moving forward.\n\nLet me know if you experience any further issues down the road.\n\nOR\n\nYour account seems to have experience a disconnection from our service. Our apologies for that inconvenience.\nTo reactivate, could you possibly just access the following link: _________",
+          "Tags": "Inactive, Reauth",
+          "Type": "Problem w/ EC working",
+          "Links": "https://www.evercontact.com/reauth.html?email="
+      },
+      {
+          "Question": "Contacts not being updated or captured (account is \"Active)",
+          "What you do/What it means": "Panic! Why aren't the contacts updating?! But then ask for specific contact emails and fwd to tech team",
+          "What you say": "Could you possibly provide me the email addresses of one or two recent contacts you've had who haven't updated?\nThat info will simply help our tech team investigate the goings-on of your particular account.",
+          "Tags": "Inactive, Reauth",
+          "Type": "Problem w/ EC working"
+      },
+      {
+          "Question": "\"Sorry your personal settings cannot be saved\" error in Outlook",
+          "What you do/What it means": "This process -->",
+          "What you say": "our apologies that you've experienced this issue. Hopefully the following process will be able to help you out. \n\nWould you mind completing the following steps to see if we can get everything up and running correctly? \n1) Close Outlook \n2) Uninstall Evercontact via the Control Panel \n3) Download and run our cleaning app: https://evercontact.com/microsoft/EverCleaner.exe \n4) Reboot \n5) After the cleaning process, download and install the latest version of the add-in from here: http://gvollant.free.fr/EvercontactSetup_11_44.exe \n6) Reopen Outlook and when prompted, choose with the email account you want to use with Evercontact.\n\nThis should resolve the issue you've been having. If for some reason it doesn't, please let me know and I will notify our tech team to investigate further.",
+          "Tags": "Outlook Error Evercleaner",
+          "Type": "Problem w/ EC working"
+      },
+      {
+          "Question": "My contacts haven't changed since I started my service (product confusion)",
+          "What you do/What it means": "Explain CR vs. EC. As them what service they were looking for",
+          "What you say": "What were you hoping to receive? I'd love to set you up with your desired service. \nAlso just to clarify:\n- Evercontact analyzes your incoming emails and updates them as they come in once daily (so since you only signed up this past weekend, you wouldn't see much change quite yet)\n- Our ContactRescue service analyzes past email archives to ensure your address book is up-to-date. Perhaps this is what you were looking for?\n",
+          "Tags": "New",
+          "Type": "Product Confusion"
+      },
+      {
+          "Question": "How long does EC take to work/ When will I see updated contacts?",
+          "What you do/What it means": "Share http://support.evercontact.com/knowledge_base/topics/most-popular-how-does-evercontact-work",
+          "Tags": "New",
+          "Type": "Product Confusion"
+      },
+      {
+          "Question": "How do I save a contact? (when it's clear this person doesnt understand how it works)",
+          "What you do/What it means": "Explaaaaaain like to a baby",
+          "What you say": "Evercontact actually automatically saves your incoming contact information based on the details collected from email signatures. From more on how it works, specifically, feel free to check out this page.\nRegarding a tool that allows you to highlight and save your contacts, we do have a Chrome Extension with a similar function. If you are interested in the extension, this FAQ explains exactly how it works pretty comprehensively.\n\nHope that helps!\nLet me know if you have any further questions here.",
+          "Tags": "New",
+          "Type": "Product Confusion",
+          "Links": "http://support.evercontact.com/knowledge_base/topics/most-popular-how-does-evercontact-work\nhttps://chrome.google.com/webstore/detail/evercontact/hlfhddckfmifofnpklmmiboiljmengde?hl=en\nhttp://support.evercontact.com/knowledge_base/topics/how-do-i-use-the-chrome-plugin"
+      },
+      {
+          "Question": "New user? Contact updates in dashboard every 24 hrs",
+          "What you do/What it means": "New user? Contact updates in dashboard every 24 hrs",
+          "What you say": "Good question! Taking a look at your account details from our end, it appears your Evercontact is up and running.\nEvercontact consistently accesses your incoming emails to generate new, update contacts for you. However, updates only appear in you Contact Dashboard once every 24 hours. Thus, since you've just registered today, you should start seeing results there tomorrow.\n\nHope that clears things up!\nLet me know if you have any further questions and I'll be happy to help.",
+          "Tags": "New contact updates",
+          "Type": "Product Confusion"
+      },
+      {
+          "Question": "What is Evercontact",
+          "What you do/What it means": "Explain",
+          "What you say": "I'm Dan from Evercontac - thanks for reaching out.\n\nEvercontact is a service that automatically updates your email contacts' info, thereby ensuring your address book is always up to date. For more on how exactly it works, feel free to take a look at this page.\n\nIf you have any further questions, feel free to reach out here.",
+          "Tags": "New how to",
+          "Type": "Product Confusion",
+          "Links": "http://support.evercontact.com/knowledge_base/topics/most-popular-how-does-evercontact-work"
+      },
+      {
+          "Question": "Not working (Outlook for Mac)",
+          "What you do/What it means": "EC doesn't work on Outlook for Mac just yet",
+          "What you say": "If you're using Outlook, we unfortunately do not support Outlook for Mac just yet.\nThat being said, Evercontact works with Gmail and Office 365 on all devices if you have any email accounts under those providers.\n\nHope this helps! Let me know if you have any further questions.",
+          "Tags": "New Sign up error",
+          "Type": "Product Confusion"
+      },
+      {
+          "Question": "Just bought today, want instant refund",
+          "What you do/What it means": "Reply, ask for feedback, as Thomas Doc to refund (make sure its the right email)",
+          "What you say": "Could you please just let me know with which email you purchased a business subscription? Invoices take 24 hours to process on our end so I just want to make sure we refund the correct account.\n\nAlso - I know you weren't with Evercontact for long, but if you have any feedback on why you're cancelling your subscription, we'd greatly appreciate it! Always trying to improve on our end.",
+          "Tags": "Delete disable unsubscribe cancel refund",
+          "Type": "Removal"
+      },
+      {
+          "Question": "Disable account",
+          "What you do/What it means": "Cry tears of teal, then (if Gmail/o365) go to their main settings page and \"disable\". for outlook, send them link. - also make sure to unsubscribe them from all emails",
+          "What you say": "I'm Dan with Evercontact - thanks for reaching out, though we're sorry to see you go!\n\nI've just removed you from all mailing lists and completely deleted your account (+data) from our systems.\nIf you have a second, we'd love to get your feedback on why you're leaving Evercontact - we're always trying to improve our service and any suggestion for improvement is most welcome.\n\nPlease let me know if there's anything else I can do for you.",
+          "Tags": "Disable Unsubscribe",
+          "Type": "Removal"
+      },
+      {
+          "Question": "And I quote, \"You guys are the literal worst. I don't want an account with Evercontact. I can't delete it, I can only disable it. Then I continue receiving these e-mails because I disable it from Google's end.\"",
+          "What you do/What it means": "KPI --> \"Optout management\" --> enter email, kind = \"optout,\" but to DELETE user, you can either disable account from settings (or if they insist on beyond removed from our systems, go to WS User Dashboard and \"delete user\"       **BUT** this is only for automated emails. For Marketing-related emails, you have to ask Brian/whoever has access to that list",
+          "Tags": "Disable Unsubscribe DELETE",
+          "Type": "Removal"
+      },
+      {
+          "Question": "Unsubscribe from all emails",
+          "What you do/What it means": "KPI --> \"Optout management\" --> enter email, kind = \"optout\" Additionally, ask Brian to check that user has been unsubscribed from marketing emails ",
+          "What you say": "some alteration of \"disable\"",
+          "Tags": "Unsubscribe",
+          "Type": "Removal"
+      },
+      {
+          "Question": "Cancel Autorenewal/refunds",
+          "What you do/What it means": "Place on Trello Customer Support/Sales board",
+          "What you say": "Let them know you reached out to financial director. Update when completed",
+          "Tags": "Cancel",
+          "Type": "Removal "
+      },
+      {
+          "Question": "Can one Enterprise license sync all our EC accounts with Salesforce",
+          "What you do/What it means": "No - you need one Enterprise license per accounts",
+          "What you say": "How many accounts are you interested in syncing up? For each individual Evercontact account you want to connect to Salesforce, you'd need an Enterprise license.",
+          "Tags": "Salesforce Enterprise Accounts",
+          "Type": "Salesforce Integration"
+      },
+      {
+          "Question": "How often are Salesforce Contacts updated",
+          "What you do/What it means": "Once a day - same as EC contacts",
+          "What you say": "Our Enterprise plan (www.evercontact.com/pricing) updates your Salesforce contacts on a daily basis (one update every 24 hours).",
+          "Tags": "Salesforce Enterprise Contacts",
+          "Type": "Salesforce Integration"
+      },
+      {
+          "Question": "Worried about security risks of EC",
+          "What you do/What it means": "Worried about security risks of EC",
+          "What you say": "Regarding security implications, feel free to take a look at our Privacy Policy. To give you some quick insight, Evercontact scans your incoming emails but discards anything that does not specifically pertain to updating that contact's information in your address book. \nIf you have any specific questions or concerns about our security measures, please let me know and I'll be happy to answer them!",
+          "Tags": "New privacy security",
+          "Type": "Security"
+      },
+      {
+          "Question": "Will we keep the un-tracking feature?",
+          "What you do/What it means": "This is now that Senders is shutting down",
+          "What you say": "Hi Wei!\n\nDan from Evercontact here - thanks for reaching out.\n​\nGreat question! The un-tracking is feature is extremely important to us and we’re currently working on how to include the feature in Evercontact moving forward.\nWe will absolutely reach out once we have more details to share, but the answer is a tentative \"Yes\" with details still TBD.\n\nHope that clears things up a tiny bit, and thank you for expressing your concern here.\n\nBest,\nDan",
+          "Tags": "Senders tracking feature",
+          "Type": "Senders"
+      },
+      {
+          "Question": "Asking for Evercontact Trial",
+          "What you do/What it means": "Trial is now done through IGT and then selecting trial at the end (trial button is going to be more prominate easier for users to see). Nothing is done through us anymore",
+          "What you say": "Hi Cassidy!\n\nDan from Evercontact here - thanks for reaching out.\n​\nGreat question! We do offer a trial in the form of our \"Instant Gratification Tool!\" It basically simulates our service by running a free mini-ContactRescue on your past 100 emails. From those emails, it will detect your correspondants' info and update it in your address book! You have the option to purchase a plan at the end, or if you would like more time to test out our product, you can opt out of purchasing a plan and select a free 14 day trial of ongoing contact updates!\n\nPlease feel free to try it out, and let me know if you have further questions here.\n\nBest,\nDan",
+          "Tags": "trial essentials ",
+          "Type": "Trial"
+      },
+      {
+          "Question": "How to know when a contact was created/last time they were updated (!!!!) in WS dashboard",
+          "What you do/What it means": "https://trello.com/c/enFMNZl8/668-user-cannot-delete-a-contact-in-gmail",
+          "What you say": "Check graphic in link",
+          "Tags": "Dashboard, contact, update",
+          "Type": "Voodooscope Tricks",
+          "Links": "https://trello.com/c/enFMNZl8/668-user-cannot-delete-a-contact-in-gmail"
+      },
+      {
+          "Question": "Account Purged",
+          "What you do/What it means": "If we haven't analyzed any emails for 2 weeks, the account is set to DISABLED then DELETED and finally PURGED.Each time we set the status, we delete more and more information about the user (list of analyzed emails, extracted contacts, historic of updates, crendentials, ...)",
+          "Tags": "Delete Disable Purge",
+          "Type": "Removal"
+      },
+      {
+          "Question": "Alias Accounts",
+          "What you do/What it means": "If someone is using an alias email address (i.e. an email name that funnels into a different address's inbox), they kinda operate as one entity. Like how if you have Evercontact for your Outlook, all email addresses you have linked to that Outlook inbox will be included. In other words, Evercontact accounts are distinct based on each individual inbox, not necessarily each individual email address.",
+          "Tags": "Alias Accounts Multi",
+          "Type": "Accounts"
+      },
+      {
+          "Question": "Google Permissions (i.e. A user being concerned that Google necessitates giving permission to send emails on their behalf)",
+          "What you do/What it means": "-->",
+          "What you say": "The permissions you encountered are actually automatically set by Google, not by us. They are required with all email management software the runs through Google.\nThat being said, Evercontact never sends emails on your behalf unless you initiate such action. Please know that we value our users' privacy above all else; if you'd like more details on our security measures, feel free to ask me here or check out our Privacy Policy. \n\nHope this clears things up!",
+          "Tags": "Google Permissions Concern security privacy",
+          "Type": "Security"
+      },
+      {
+          "Question": "INVALID_CREDENTIALS",
+          "What you do/What it means": "If you see this under \"Last Errors\" under \"User's Accounts,\" you should test credentials. If it's \"KO KO\" instead of \"OK OK\" on the right side, we probably need a reauth. Might need a reauth either way. ",
+          "Tags": "Invalid Credentials Credentials Reauth",
+          "Type": "Problem w/ EC working"
+      },
+      {
+          "Question": "GDPR",
+          "What you do/What it means": "Current privacy laws in Europe",
+          "What you say": "Hi there!\nThanks for reaching out.\nPlease know that user privacy is a top priority at Evercontact - always has been and always will be.\nWe are compliant with current GDPR regulations and have already made appropriate updates to our data processing and user onboarding procedures. Feel free to take a look at our privacy pages and GDPR-specific page for more details.\nFurther, if you have any questions about GDPR itself, feel free to reach out here or check out our recent blog posts!",
+          "Tags": "Privacy\nSecurity\nGDPR\n\n",
+          "Links": "http://blog.evercontact.com/gdpr-cliffsnotes-need-to-know/ \nhttps://www.evercontact.com/privacy \nhttps://www.evercontact.com/gdpr\n\n"
+      },
+      {
+          "Question": "New free user sign up process for multi-account or centralization requests",
+          "What you do/What it means": "We no longer have the free plan, so they have to complete the trial (if gmail or o365) or download outlook plugin directly",
+          "What you say": "If these email addresses are Gmail or Office 365, sign up here for a free trial! You can run the whole trial, or skip right to the pricing page. You will be prompted to purchase a plan, but instead click on \"not interested\" where you will be directed to extend your trial. Please make sure you accept the 14-day trial, and we will do the rest behind the scenes! If you are using Outlook for desktop for any of the emails you are interested in registering, you can do so directly through this link by installing the Outlook plugin!",
+          "Links": "http://support.evercontact.com/knowledge_base/topics/how-do-i-install-evercontact-for-outlook"
+      },
+      {
+          "Question": "Issues with Contact updates (Outlook user)",
+          "What you do/What it means": "Ask for logs for tech team",
+          "What you say": "found by going to documents/evercontact on your computer",
+          "Tags": ".log or .zip"
+      },
+      {
+          "Question": "User's password for Outlook",
+          "What you do/What it means": "Only Outlook users have a specific password for their dashboard; Gmail and O365 login through their emails.",
+          "What you say": "\nHi Dean,\n\nThanks for reaching out! To reset your password, head to our homepage, click to login with out look at the top right corner, and you will be prompted to log in, with the option to reset your password at the bottom (please see screenshot attached).",
+          "Links": "file:///Users/cassidymacca/Desktop/Screen%20Shot%202018-05-31%20at%2010.49.46%20AM.png"
+      },
+      {
+          "Question": "User's status is HOPE, but they have a paid subscription",
+          "What you do/What it means": "Click \"active user\" in VS, double check all is good in KPI",
+          "What you say": "Nothing, this is just for us internally :) "
+      }
+  ],
+  "Voodooscope User Dashboard": [
+      {
+          "Label": "Provider",
+          "What it means": "Self-explanatory",
+          "Unique to email provider?": "Obviously",
+          "Section": "Top"
+      },
+      {
+          "Label": "Notification Period",
+          "What it means": "How often that person gets notified of contact updates",
+          "Unique to email provider?": "Nope"
+      },
+      {
+          "Label": "Status",
+          "What it means": "Basically - is the account working? You're looking for \"Active.\" Typically a disconnected account is denoted by \"Deleted\" or something similar ",
+          "Unique to email provider?": "Nope"
+      },
+      {
+          "Label": "Pricing Plan / License Type",
+          "What it means": "Okay listen up - both of these denote the user's license. On Pricing plan: Free is Free, Solo = Free, Basic = Essentials, Plus = Business, Pro = enterprise. On License Type, plan = 0, 1, 2, 3 in the order of the plans. Here's the thing - SOMETIMES the two categories give contradictory info (because the world is a cruel place)  - i.e. one denotes a paying plan and the other says free - and typically the paying plan is the correct info (this is where checking the invoices is useful)",
+          "Unique to email provider?": "Nope",
+          "Section": "This is under \"Personal Info\" which is under \"Gmail info\" (with the exception of \"Pricing Plan\")"
+      },
+      {
+          "Label": "License Status",
+          "What it means": "Falls under the same umbrella as ^^^ and usually reflects the \"License Type\" - one important thing here is if it (or the pricing plan) says \"Bye,\" it means the account is currently disabled",
+          "Unique to email provider?": "Nope"
+      },
+      {
+          "Label": "License Created",
+          "What it means": "Self-explanatory"
+      },
+      {
+          "Label": "Valid Until",
+          "What it means": "Self-explanatory --> Free plans automatically go until the year 2100; otherwise the plans last a year from inception EXCEPT in the case of someone buying a regular ContactRescue which comes with 6 months of complementary Essentials"
+      },
+      {
+          "Label": "Flashback?",
+          "What it means": "\"1\" is a normal ContactRescue and \"2\" is a CR+"
+      },
+      {
+          "Label": "Pricing Plan",
+          "What it means": "1 or 2 as above",
+          "Section": "This is under \"Flashback Info\" under \"Gmail info\" IF they purchased a CR; otherwise you won't see it"
+      },
+      {
+          "Label": "License Status",
+          "What it means": "Just know that \"GIFT\" is typically the status after we give them a CR manually (which could be for a number of reasons: there was an error... they couldn't launch it... as compensation, etc...)"
+      },
+      {
+          "Label": "Payment System (/Provider)",
+          "What it means": "Stripe/Paypal/etc...",
+          "Unique to email provider?": "doesn't always show up"
+      },
+      {
+          "Label": "Created Date",
+          "What it means": "Self-explanatory"
+      },
+      {
+          "Label": "Edit User Info",
+          "What it means": "Clicking here allows you to edit account info (i.e. plan type, end date, etc...)",
+          "Unique to email provider?": "ONLY for Outlook - for o365/gmail you have to access KPI (see below)",
+          "Section": "These are in that bar of various buttons. These are the only ones I've ever pressed"
+      },
+      {
+          "Label": "Delete User",
+          "What it means": "It completely deletes their account from our database",
+          "Unique to email provider?": "Nope"
+      },
+      {
+          "Label": "Bye User",
+          "What it means": "This disables their account (info remains in database) - doesn't always work though",
+          "Unique to email provider?": "Nope"
+      },
+      {
+          "Label": "Force Merge",
+          "What it means": "--"
+      },
+      {
+          "Label": "List Locutors",
+          "What it means": "--"
+      },
+      {
+          "Label": "Test Credentials",
+          "What it means": "If account isn't Active, pressing this button can make an \"Activate\" button (usually you need to do it at least twice) pop up at the end of the \"User's Accounts\" bar. Why? I don't know. It's like magic.",
+          "Unique to email provider?": "Only Gmail & O365"
+      },
+      {
+          "Label": "Signup/first_visit/website/etc...",
+          "What it means": "Shows user activity regarding registration, visiting our website or paying",
+          "Unique to email provider?": "Nope",
+          "Section": "Marketing"
+      },
+      {
+          "Label": "KPI",
+          "What it means": "Clicking here allows you to edit account info (i.e. plan type, end date, etc...) and is part of the Giving CR process",
+          "Unique to email provider?": "ONLY Gmail & O365",
+          "Section": "Under \"User's Accounts\""
+      },
+      {
+          "Label": "Settings",
+          "What it means": "Takes you to Evercontact Settings (+Contact Dashboard)",
+          "Unique to email provider?": "ONLY Gmail & O365"
+      },
+      {
+          "Label": "Status/Create Date",
+          "What it means": "Self-Explanatory"
+      },
+      {
+          "Label": "\"Remove Jobs\"",
+          "What it means": "It's in red for a reason. This is the first step in the re-issuing CR process.",
+          "Unique to email provider?": "Nope",
+          "Section": "User's HistoRecall Jobs (appears empty if no CR)"
+      },
+      {
+          "Label": "#Anal.",
+          "What it means": "Emails analyzed (I believe)",
+          "Unique to email provider?": "Nope"
+      },
+      {
+          "Label": "#Sig",
+          "What it means": "Signatures detected",
+          "Unique to email provider?": "Nope"
+      },
+      {
+          "Label": "#Contacts",
+          "What it means": "Unique contacts found",
+          "Unique to email provider?": "Nope"
+      },
+      {
+          "Label": "#Up.",
+          "What it means": "Contacts whose existing info we've updated",
+          "Unique to email provider?": "Nope"
+      },
+      {
+          "Label": "Status",
+          "What it means": "\"Done\" is what you want, or \"Processing\" if it's still... in the process. Anything else usually denotes an error. If all the numbers are \"-1\" or \"0\" then there's been an error",
+          "Unique to email provider?": "Nope"
+      },
+      {
+          "Label": "From/To",
+          "What it means": "Dates of emails covered",
+          "Unique to email provider?": "Nope"
+      },
+      {
+          "Label": "Diagnostic",
+          "What it means": "I've only used this section for this: https://docs.google.com/document/d/1GIygREjprp0jR1SzkPQHvVI93WBHlwQWBqWu882C83Q/edit#heading=h.d5npssaog5qo",
+          "Section": "Diagnostic"
+      },
+      {
+          "Label": "Info under WTN Logs",
+          "What it means": "It's a record of anything that has happened to this account. It's a bit all over the place, but one thing to note is the \"Date\" - if nothing has happened today or even yesterday, that account might very well be disconnected (esp. if its weeks or months from activity - thats a good tell-tale sign that no contacts have been updated). Besides contact updates, you also see other activity here (i.e. if the account gets reauthorized)",
+          "Section": "Last Logs"
+      }
+  ]
+}
